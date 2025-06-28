@@ -15,7 +15,7 @@ export default function Home() {
 
       {/* FEATURES */}
     <section className="py-16 px-6 bg-gradient-to-b from-gray-200 to-gray-50 text-gray-900 text-center">
-  <h2 className="text-3xl font-bold mb-6">Why You'll Love Using [Startup-Name]</h2>
+  <h2 className="text-3xl font-bold mb-6">Why You&apos;ll Love Using [Startup-Name]</h2>
   <p className="mb-10 max-w-2xl mx-auto">
     Our platform makes your workflow faster, your team happier, and your results better. Here&apos;s how.
   </p>

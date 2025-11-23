@@ -105,7 +105,7 @@ export default function Home() {
     </h2>
     
     <p className="text-lg sm:text-xl text-white/90 max-w-2xl mx-auto mb-8 leading-relaxed">
-      We're assembling a world-class team of visionaries, builders, and innovators who are passionate about transforming how startups operate.
+      We&apos;re assembling a world-class team of visionaries, builders, and innovators who are passionate about transforming how startups operate.
     </p>
 
     {/* Perks */}
@@ -196,7 +196,7 @@ export default function Home() {
     {/* Additional CTA */}
     <div className="mt-12 p-6 bg-indigo-50 rounded-2xl border border-indigo-100">
       <p className="text-gray-700 mb-4">
-        Still have questions? We're here to help!
+        Still have questions? We&apos;re here to help!
       </p>
       <a 
         href="mailto:hello@startup.com" 
